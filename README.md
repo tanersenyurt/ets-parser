@@ -23,7 +23,7 @@ than for creating required tables flyway migration should be run like below
 
      gradle flywayMigrate
 
-after migration done, you are good to go, you can fetch hotel information 
+after migration done, you are good to go, you can fetch hotel information
 
 #### Dependencies
 
@@ -35,6 +35,8 @@ Kotlin Coroutines to make asynchronous requests.
 To use this code, you need to replace the FROM and TO dates in the main function with the desired dates. You can also specify the type of holiday by modifying the filters list.
 
 This code can be used as a starting point for building an application that fetches and stores data from the ETS website. You will need to modify the code to suit your specific requirements.
+
+![queried_hotels.png](src%2Fmain%2Fresources%2Fassets%2Fqueried_hotels.png)
 
 #### License
 
