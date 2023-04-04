@@ -38,6 +38,12 @@ This code can be used as a starting point for building an application that fetch
 
 ![queried_hotels.png](src%2Fmain%2Fresources%2Fassets%2Fqueried_hotels.png)
 
+#### Sample Data
+| id | hotelId | name | discount | score | comments\_count | worth | price | boardType | theme | hotelType | country | city | state | facilities | campaignName | lat | lon | hotelUrl | imageUrl | source | fromDate | toDate | md5 | dateCreated |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 126 | RAMRES | Ramada Resort Lara | 28 | 9.4 | 481 | 53264 | 38350.08 | Ultra Her Şey Dahil | Mavi Bayrak \| Balayı Oteli | TKOY | Türkiye | Antalya | Lara-Kundu |  Çocuk Oyun Parkı \| Bebek Arabası \| Masaj | Erken Rezervasyon Otelleri | 36.857633 | 30.869556 | https://www.etstur.com/Ramada-Resort-Lara?check\_in=17.07.2023&check\_out=25.07.2023&adult\_1=2 | https://images.etstur.com/files/images/hotelImages/TR/51672/m/Ramada-Resort-Lara-Genel-121263.jpg | ets | 17.07.2023 | 25.07.2023 | 18373211c89bfa6115921ba59d548037 | 2023-04-04 00:00:00.000000 |
+
+
 #### License
 
 This code is released under the MIT license.
