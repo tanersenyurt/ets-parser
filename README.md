@@ -3,7 +3,7 @@ Purpose of the project selecting Holiday easily with sql like
 
 `SELECT t.*
 FROM holiday.hotel t
-WHERE score>8.7 and price<35  and discount>18 and comments_count>300
+WHERE score>8.7 and price<35000  and discount>18 and comments_count>300
 ORDER BY price DESC;`
 
 ### Description
