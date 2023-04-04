@@ -1,0 +1,19 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Compiled files
+/out/
+/build/
+
+# Gradle files
+.gradle/
+build/
+
+# Logs
+logs/
+
+# Mac OS files
+.DS_Store
